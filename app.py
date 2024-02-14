@@ -4,13 +4,13 @@ import pandas as pd
 import numpy as np
 import cufflinks as cf
 from datetime import datetime, timedelta
-from sklearn.preprocessing import MinMaxScaler
+#from sklearn.preprocessing import MinMaxScaler
 # import tensorflow as tf
 # from tensorflow.keras.models import Sequential
 # from tensorflow.keras.layers import Dense
 # from tensorflow.keras.layers import LSTM
-import math
-from sklearn.metrics import mean_squared_error
+#import math
+#from sklearn.metrics import mean_squared_error
 
 # Class LSTM
 class LSTM:
